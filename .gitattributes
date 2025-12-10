@@ -1,0 +1,5 @@
+.github/ export-ignore
+.releaserc.json export-ignore
+.ddev/ export-ignore
+.claude/ export-ignore
+vendor/ export-ignore
