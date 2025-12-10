@@ -1,6 +1,6 @@
 {
   "name": "kevinquillen/twig-partials",
-  "description": "Django-style partial template rendering for Twig.",
+  "description": "Django 6 style partial template support for Twig.",
   "type": "library",
   "license": "MIT",
   "require": {
